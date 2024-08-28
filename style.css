@@ -1,10 +1,10 @@
 :root {
-    --vermelho-principal: #f60707ad;
+    --vermelho-principal: hsla(0, 94%, 50%, 0.678);
     --cinza-secundario: hsla(0, 0%, 75%, 0.566);
-    --botao-azul: #167BF7;
-    --cor-de-fundo: #00030C;
+    --botao-azul: hsl(236, 93%, 53%);
+    --cor-de-fundo: hsl(225, 100%, 2%);
     --fonte-principal: 'Inter';
-    --botao-azul-efeito: #3c92fa;
+    --botao-azul-efeito: hsl(213, 95%, 61%);
 }
 
 body {
@@ -146,7 +146,7 @@ body {
 }
 
 .lista__link a:active {
-    color: purple;
+    color: hsl(300, 100%, 25%);
 }
 
 .container__botao:hover {
