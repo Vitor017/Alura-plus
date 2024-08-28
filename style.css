@@ -1,5 +1,5 @@
 :root {
-    --vermelho-principal: hsla(0, 94%, 50%, 0.678);
+    --branco-principal: hsl(0, 100%, 100%);
     --cinza-secundario: hsla(0, 0%, 75%, 0.566);
     --botao-azul: hsl(236, 93%, 53%);
     --cor-de-fundo: hsl(225, 100%, 2%);
